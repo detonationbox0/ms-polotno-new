@@ -1,0 +1,33 @@
+.polotno-side-tabs-container {
+    background-color:rgba(0,0,0,.05);
+    color: rgb(13, 41, 64);
+}
+
+.bp4-button.bp4-minimal {
+    color:white;
+}
+
+.bp4-button.bp4-minimal:hover {
+    color:white;
+}
+
+.bp4-button .bp4-icon, .bp4-button .bp4-icon-standard, .bp4-button .bp4-icon-large {
+    color: white;
+}
+
+[aria-controls*="numericInput"] {
+    background-color:rgb(13, 41, 64) !important;
+}
+
+.bp4-navbar {
+    background-color:rgb(13, 41, 64);
+}
+
+
+.polotno-side-panel > .bp4-navbar, .polotno-side-panel.bp4-navbar {
+    background-color:#FFF;
+}
+
+.polotno-page-container > div > .bp4-popover2-target > .bp4-minimal > span {
+    color:rgb(13, 41, 64); 
+}

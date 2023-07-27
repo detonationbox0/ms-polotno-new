@@ -1,0 +1,23 @@
+#ms-logo {
+    max-width: 150px;
+    margin: 10px 20px;
+}
+
+#btn-export {
+    position:absolute;
+    right: 20px;
+}
+
+.ms-button {
+    background-color: #FF8C00;
+    border: 0px;
+    padding: 10px 30px;
+    color:white;
+    margin:14px 20px;
+    font-size: 12pt;
+    cursor:pointer;
+}
+
+.ms-button:hover {
+    filter:brightness(110%);
+}
